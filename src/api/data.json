@@ -1,0 +1,284 @@
+{
+  "categories": [
+    {
+      "name": "food",
+      "products": [
+        {
+          "name": "Яблоко",
+          "quantity": 10,
+          "availability": true
+        },
+        {
+          "name": "Хлеб",
+          "quantity": 5,
+          "availability": true
+        },
+        {
+          "name": "Молоко",
+          "quantity": 0,
+          "availability": false
+        },
+        {
+          "name": "Макароны",
+          "quantity": 12,
+          "availability": true
+        },
+        {
+          "name": "Сыр",
+          "quantity": 7,
+          "availability": true
+        },
+        {
+          "name": "Колбаса",
+          "quantity": 0,
+          "availability": false
+        },
+        {
+          "name": "Рис",
+          "quantity": 6,
+          "availability": true
+        },
+        {
+          "name": "Огурцы",
+          "quantity": 9,
+          "availability": true
+        },
+        {
+          "name": "Помидоры",
+          "quantity": 10,
+          "availability": true
+        },
+        {
+          "name": "Мороженое",
+          "quantity": 2,
+          "availability": true
+        },
+        {
+          "name": "Мясо",
+          "quantity": 0,
+          "availability": false
+        },
+        {
+          "name": "Бананы",
+          "quantity": 6,
+          "availability": true
+        },
+        {
+          "name": "Сок",
+          "quantity": 7,
+          "availability": true
+        },
+        {
+          "name": "Картошка",
+          "quantity": 11,
+          "availability": true
+        },
+        {
+          "name": "Масло",
+          "quantity": 8,
+          "availability": true
+        },
+        {
+          "name": "Кефир",
+          "quantity": 0,
+          "availability": false
+        },
+        {
+          "name": "Яйца",
+          "quantity": 9,
+          "availability": true
+        },
+        {
+          "name": "Выпечка",
+          "quantity": 5,
+          "availability": true
+        }
+      ]
+    },
+    {
+      "name": "clothes",
+      "products": [
+        {
+          "name": "Футболка",
+          "quantity": 15,
+          "availability": true
+        },
+        {
+          "name": "Джинсы",
+          "quantity": 7,
+          "availability": true
+        },
+        {
+          "name": "Платье",
+          "quantity": 0,
+          "availability": false
+        },
+        {
+          "name": "Юбка",
+          "quantity": 9,
+          "availability": true
+        },
+        {
+          "name": "Рубашка",
+          "quantity": 6,
+          "availability": true
+        },
+        {
+          "name": "Брюки",
+          "quantity": 0,
+          "availability": false
+        },
+        {
+          "name": "Куртка",
+          "quantity": 8,
+          "availability": true
+        },
+        {
+          "name": "Свитер",
+          "quantity": 5,
+          "availability": true
+        },
+        {
+          "name": "Пиджак",
+          "quantity": 2,
+          "availability": true
+        },
+        {
+          "name": "Шорты",
+          "quantity": 7,
+          "availability": true
+        },
+        {
+          "name": "Костюм",
+          "quantity": 0,
+          "availability": false
+        },
+        {
+          "name": "Блузка",
+          "quantity": 6,
+          "availability": true
+        },
+        {
+          "name": "Верхняя одежда",
+          "quantity": 9,
+          "availability": true
+        },
+        {
+          "name": "Жилетка",
+          "quantity": 5,
+          "availability": true
+        },
+        {
+          "name": "Сарафан",
+          "quantity": 0,
+          "availability": false
+        },
+        {
+          "name": "Шарф",
+          "quantity": 7,
+          "availability": true
+        },
+        {
+          "name": "Головной убор",
+          "quantity": 6,
+          "availability": true
+        },
+        {
+          "name": "Носки",
+          "quantity": 0,
+          "availability": false
+        }
+      ]
+    },
+    {
+      "name": "electronics",
+      "products": [
+        {
+          "name": "Смартфон",
+          "quantity": 20,
+          "availability": true
+        },
+        {
+          "name": "Ноутбук",
+          "quantity": 12,
+          "availability": true
+        },
+        {
+          "name": "Телевизор",
+          "quantity": 0,
+          "availability": false
+        },
+        {
+          "name": "Наушники",
+          "quantity": 18,
+          "availability": true
+        },
+        {
+          "name": "Планшет",
+          "quantity": 9,
+          "availability": true
+        },
+        {
+          "name": "Умные часы",
+          "quantity": 7,
+          "availability": true
+        },
+        {
+          "name": "Камера",
+          "quantity": 0,
+          "availability": false
+        },
+        {
+          "name": "Игровая приставка",
+          "quantity": 10,
+          "availability": true
+        },
+        {
+          "name": "Монитор",
+          "quantity": 6,
+          "availability": true
+        },
+        {
+          "name": "Фотоаппарат",
+          "quantity": 0,
+          "availability": false
+        },
+        {
+          "name": "Проектор",
+          "quantity": 8,
+          "availability": true
+        },
+        {
+          "name": "USB Flash Drive",
+          "quantity": 7,
+          "availability": true
+        },
+        {
+          "name": "Клавиатура",
+          "quantity": 0,
+          "availability": false
+        },
+        {
+          "name": "Мышь",
+          "quantity": 9,
+          "availability": true
+        },
+        {
+          "name": "Интернет-роутер",
+          "quantity": 5,
+          "availability": true
+        },
+        {
+          "name": "Принтер",
+          "quantity": 0,
+          "availability": false
+        },
+        {
+          "name": "Телефон",
+          "quantity": 7,
+          "availability": true
+        }
+      ]
+    }
+  ]
+}

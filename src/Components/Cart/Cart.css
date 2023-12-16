@@ -1,0 +1,30 @@
+.cart-portal {
+    position: fixed;
+    top: 50%;
+    right: 10px;
+    transform: translate(0, -50%);
+    background-color: white;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.cart-portal-enter {
+    opacity: 0;
+    transform: translate(100%, -50%);
+}
+
+.cart-portal-enter-active {
+    opacity: 1;
+    transform: translate(0, -50%);
+    transition: opacity 200ms, transform 200ms;
+}
+.cart-header {
+    display: flex;
+    justify-content: center;
+}
+.centered-icon {
+
+    align-items: center;
+    width: 30px;
+    height: 30px;
+}
